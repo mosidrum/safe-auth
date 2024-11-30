@@ -1,0 +1,59 @@
+# Dependencies
+/backend/node_modules/ 
+/backend/.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+debug.log
+*.out
+*.err
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage/
+.nyc_output/
+.idea
+
+# Environment files
+.env
+.env.*.local
+
+# Build files
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.old
+
+# SQLite database
+*.sqlite
+*.sqlite3
+
+# Editors and IDEs
+.idea/
+.vscode/
+.vs/
+*.sublime-workspace
+*.sublime-project
+
+# Miscellaneous
+!.gitkeep
